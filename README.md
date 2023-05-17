@@ -1,7 +1,3 @@
-## Table of Contents
-1. [General Info]
-2. [Technologies]
-3. [Installation]
 ### General Info
 ***
 Project Aims: Create a machine learning pipeline that is able to classify news stories as either Opinion or Fact.
